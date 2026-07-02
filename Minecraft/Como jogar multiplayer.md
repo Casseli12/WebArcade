@@ -80,8 +80,10 @@ Agora va em "Direct Connect"
 
 e clique em "Join Shared World"
 
- e coloque o codigo que esta no chat do dono do mundo (Aperte T para acessar o chat)
+ e coloque o codigo em letras verdes que esta no chat do dono do mundo (Aperte T para acessar o chat)
 
 
- <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 065437.png" width="1000">
- <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 075959.png" width="1000">
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 065437.png" width="1000">
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 075959.png" width="1000">
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 080012.png" width="1000">
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 080743.png" width="1000">
