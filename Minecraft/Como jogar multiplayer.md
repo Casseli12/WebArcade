@@ -13,3 +13,9 @@ Depois de clicar invite aparecerá uma mensagem junto de um botão escrito "Cont
 e aparecerá um botão escrito "Network Settings" clique!
 
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064444.png" width="1000">
+
+
+Pronto! agora você esta na aba de Shared world relay servers procure um botão escrito "Add relay"
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064458.png" width="1000">
