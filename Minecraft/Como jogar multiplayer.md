@@ -30,5 +30,14 @@ Você entrara neste site
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064823.png" width="1000">
 
 
-agora voltando ao minecraft no relay address cole o seguinte link:https://eagler-relay-1s52.onrender.com
+agora voltando ao minecraft no relay address cole o seguinte link: https://eagler-relay-1s52.onrender.com
 e clique em add relay
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064717.png" width="1000">
+
+
+depois e só clicar em "Done" e depois em "Start LAN World"
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064835.png" width="1000">
